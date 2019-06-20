@@ -1,0 +1,335 @@
+
+body 
+{background-image:url("architecture04.jpg");
+background-repeat:no-repeat;
+background-size:100% ;
+position: relative;
+  margin: 0;
+  padding-bottom:10rem;
+  min-height: 100% 650px;
+  overflow-x: hidden;
+  padding-top:20px; 
+
+ }
+/*header*/
+
+
+ul{
+
+	margin-left:12%;
+	margin-right:8%;
+	margin-top:3%;
+	padding:5px;
+	list-style:none;	
+	
+}
+ul li{
+	float:left;
+	width:250px;
+	height:32px;
+    background-color:black;
+	opacity: .7;
+	line-height:35px;
+	text-align:center;
+	font-size:18px;
+	margin-left:0;
+	padding:10px 10px 10px 10px;
+}
+ ul li a {
+	 text-decoration:none;
+	 color:white;
+	 display:block;
+	 
+ }
+ ul li a:hover{
+	 background-color:green;
+ }
+ ul li ul li
+ {
+ font-size:15px;
+ color:gray; 
+display:none;	 
+ }
+  ul li:hover ul li
+ {
+display:block;	 
+background-color:red;
+
+ }
+ 
+
+  .container01{
+
+ margin-top:20%;
+ text-align:center;
+padding-top:5px;
+padding-bottom:30px;
+ }
+ .container02{ 
+  margin-top:22%;
+ text-align:center;
+padding-top:5px;
+
+ }
+
+
+ /*showcase background img direct after no-repeat also move img ex 0 -200px*/
+#showcase{
+  text-align:center;
+	
+}
+#showcase h1{
+	font-family:Elephant;
+	font-size:25px;
+	margin-top:50px;
+	font-size:55px;
+	margin-bottom:10px;
+	color:red;
+}
+#showcase p{
+	font-family:Georgia;
+	font-size:30px;
+	color:red;
+}
+/*newsletter*/
+#newslatter
+{
+
+	
+}
+#newslatter h1{
+	font-family:Elephant;
+	font-size:25px;
+ text-align:center;
+}
+#newslatter form{
+padding-top:10px;
+width:100%;
+height:100px;
+}
+#newslatter input [type="email"]{
+	
+}
+
+/*boxes emty*/
+
+#boxes {
+	text-align:center;
+}
+
+.0h2{margin-top:20px;
+	
+}
+
+#article01 .box {
+	float:left;
+	margin:0;
+}
+#article01 .box img {
+	width:480px;
+	height:600px;
+	padding:5px;
+	margin-left:20px;
+	
+}
+
+#article02 .box {
+	float:left;
+	margin:0;
+}
+#article02 .box img {
+	width:480px;
+	height:600px;
+	padding:5px;
+	margin-left:20px;
+	
+}
+
+#article03 .box {
+	float:left;
+	margin:0;
+}
+#article03 .box img {
+	width:480px;
+	height:600px;
+	padding:5px;
+	margin-left:20px;
+	
+}
+
+/*section02*/
+
+#content01{
+	background-color:white;
+	width:100%;
+    height:560px;
+	margin-top:10px;		
+}
+
+#bigbox01 .box01{
+	float:left;
+	
+}
+
+#bigbox01 .box01 img{
+	width:600px;
+	height:460px;
+	padding:10px;
+	
+}
+.interior01 h1{
+	font-family:Elephant;
+	font-size:28px;
+	text-align:center;
+	padding-top:20px;
+	spacing:2px;
+}
+
+/*content02*/
+#content02{
+	background-color:white;
+	width:100%;
+    height:560px;
+	margin-top:10px;		
+}
+
+#bigbox02 .box02{
+	float:left;
+	
+}
+
+#bigbox02 .box02 img{
+	width:310px;
+	height:460px;
+	padding:30px;
+	
+}
+
+.magazin01 h1{
+	font-family:Elephant;
+	font-size:28px;
+	text-align:center;
+	padding-top:20px;
+}
+
+
+/*content03*/
+#content03{
+	background-color:white;
+	width:100%;
+    height:560px;
+	margin-top:10px;		
+}
+#bigbox03 .box03{
+	float:left;
+    padding:10px;	
+}
+
+.school01 h1{
+	font-family:Elephant;
+	font-size:28px;
+	text-align:center;
+	padding-top:20px;
+}
+#bigbox03 .box03 img{
+	width:600px;
+	height:460px;
+	padding:0px;
+	
+}
+
+
+/*button*/
+
+#bigbox01 .box01 .btn01 {
+  position: absolute;
+  top: 45.5%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding:30px;
+  border: none;
+  cursor: pointer;
+ text-align: center;
+}
+/*
+#bigbox01 .box01 .sub_ban{background-color:rgba(0,0,0,0.3);
+	                      font-size:2em;font-weight:bold;color:#FFF;
+                          display:block;position:absolute;top:30%;left:30%;padding:20px}
+}
+*/
+#bigbox01 .box01 .btn01:hover {
+  background-color:rgba(0,0,0,0.3);
+}
+
+#bigbox01 .box01 .btn02 {
+  position: absolute;
+  top: 45.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding:30px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+#bigbox01 .box01 .btn02:hover {
+  background-color:rgba(0,0,0,0.3);
+}
+
+
+#bigbox01 .box01 .btn03{
+  position: absolute;
+  top: 45.5%;
+  left: 82.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:black;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  border: none;
+  cursor: pointer;
+text-align: center;
+}
+
+#bigbox01 .box01 .btn03:hover{
+ background-color:rgba(0,0,0,0.3);
+}
+
+/*pagebar*/
+#pagebar01{
+margin-top:100px;
+margin-bottom:100px;
+margin-left:40%;
+}
+
+#pagebar01 a{
+padding:15px;
+}
+
+/*footer*/
+.footer01
+{ position:relative;
+  display:block;
+  height:10rem;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color:#ffffff;
+  background-color:black;
+
+}
+
+.footer01 p{
+  text-align:center;
+  padding-top:1rem;
+}
+

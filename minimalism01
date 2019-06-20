@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>MINIMALISM INTERIOR DESIGN STYLE</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{
+text-align:center;
+
+}
+
+.kor01 h1{
+
+}
+
+.kor01 p{
+font-family:Arial;
+font-size:17px;
+}
+
+.kor02 img{
+height:700px;
+}
+.kor04 img{
+width:540px;
+height:390px;
+}
+
+.kor06 img{
+width:1090px;
+}
+
+/*footer*/
+.footer01
+{ position:relative;
+  display:block;
+  height:10rem;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color:#ffffff;
+  background-color:black;
+
+}
+
+.footer01 p{
+  text-align:center;
+  padding-top:4rem;
+}
+</style>
+
+
+</head>
+<body>
+
+<div id="korean01">
+<div class="kor01">
+<h1>MINIMALISM INTERIOR DESIGN STYLE</h1>
+<h2>What is Minimalism?</h2>
+<p>Concise and simple, minimalism interior design style in the interior of the apartment,<br>
+ home or office brings a harmony of space and light. This is elegant, modern, lightweight and aesthetically perfect style. <br><br>
+
+Apartment in a minimalist style is filled with air, the feeling of freedom and elegance of simple forms.<br>
+ Minimalistic interior design in the real modern apartment of big cities we can meet rather in Western Europe,<br>
+ which gravitates to economy, inner conciseness and spacious completeness of this style.<br><br>
+
+Order a design project of your apartment, home or office in a minimalist style means choosing refined simplicity and<br>
+ elegance: in big cities all over the world we can meet people who are not indifferent to the beauty of this laconic style.  <br><br>
+</p>
+</div>
+
+<div class="kor02">
+<img src="hanok14.jpg">
+<!--<iframe width="1090" height="615" src="https://www.youtube.com/embed/22ySQVJ9xTQ?start=13" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+</div>
+
+<div class="kor01">
+<h2>Ondol and maru: A unique architectural relationship</h2>
+<p>Both a huge, 99-room tile-roofed house and a small, three-room thatch or oak bark-roofed mud hut are counted as hanok (traditional Korean house).<br>
+ This is because while there may be differences in material, size or structure, all homes that are equipped with ondol (an underfloor heating system)<br>
+ and maru (a wide wooden floor area) are considered hanok. Ondol is an underfloor heating system that originated in homes in northern regions with<br>
+ a continental climate, while the maru is a structure for cooling that originated in homes in southern regions with an oceanic climate.</p>
+</div>
+
+<div class="kor04">
+<img src="hanok27.jpg">
+<img src="hanok04.jpg">
+
+
+</div>
+
+<div class="kor01">
+<p>During the hot summer, Koreans mostly stay on the maru, while they spend time in rooms warmed by ondol in the winter.<br>
+ The wood that forms the maru and the fire that makes ondol possible are incompatible. Because wood is vulnerable to fire, <br>
+ no architect in the world places these two elements together. However, due to the Korean peninsula's circulating pattern of<br>
+ cold and dry air in winter and hot and humid air in summer, the Korean people were forced to develop a method in which both <br>
+ heating and cooling could coexist. Therefore, hanok have been built since antiquity with both maru and ondol—adaptable to both heat and cold.<br>
+ This coexistence makes hanok an extremely science-based architecture unprecedented anywhere in the world.</p>
+</div>
+
+<div class="kor04">
+<img src="ondol01.png" style="border: 1.5px solid gray;">
+<img src="hanok26.jpg">
+
+</div>
+
+<div class="kor01">
+<h2>Earth, trees and hanji: Building a house from nature</h2>
+<p>The traditional architecture of most countries makes use of materials like wood, earth and stone that are easily found<br>
+ in the surrounding natural environment. The hanok was no exception. Wood was used for its pillars and maru, stone for the gudeul<br>
+ (heating device of ondol), and clay for the floors and walls. Of these materials, the hanok used a particularly large quantity of clay,<br>
+ applying it not only to the walls but also to the roof. The clay is what makes hanok cool in the summer and warm in the winter with its <br>
+ innate heating and cooling properties.</p>
+</div>
+
+<div class="kor06">
+
+<img src="hanok15.jpg">
+</div>
+
+<div class="kor01">
+<p>Another unique feature of hanok is its use of hanji—traditional Korean paper that is made from the bark of the mulberry tree—on <br>
+every flat surface inside the home, including walls, doors, the ceiling and even the floor. Hanji was pasted on doors due to its excellent<br>
+ insulating capacity and its transparency—it not only kept the room warm but also let in sunlight. Hanji does not have the closed structure of glass;<br>
+ rather, it has air holes that make ventilation of the entire home possible without having to always open the doors. Hanji also adjusts humidity levels <br>
+ by absorbing excess moisture in the air and evaporating it when the air is dry. It even traps floating dust particles, acting as an air purifier.<br>
+ With all of these features, the hanok is not only eco-friendly but brings nature itself directly into the home in the forms of light, air and even sound</p>
+</div>
+
+<div class="kor08">
+<img src="hanok12.jpg">
+<img src="hanok09.jpg">
+</div>
+
+<div class="kor01">
+<h2>Hanok: the pure beauty of empty space</h2>
+<p>Koreans learned the value of life from their everyday interactions with nature. Indeed, even the direction in which a house was to be built was determined<br>
+ in harmony with the surrounding environment. This communion with nature resulted in simple homes without frills, yet not at all destitute. In this way, <br>
+ all the natural elements surrounding the house, including wind, grass, fields and the sky, were brought indoors. In other words, hanok was the realization<br>
+ of the desirable union between nature, the home, and human beings. It is this adherence to the natural elements that gives the hanok its simple, <br>
+ soft beauty coalesced with a dignity and harmony that is absolutely magnificent.</p>
+</div>
+
+<div class="kor10">
+<img src="hanok06.jpg">
+<img src="hanok16.jpg">
+</div>
+
+<div class="kor01">
+<p>The courtyard of a hanok was not filled with a garden; rather it was intentionally left empty.<br>
+ This is because the natural environment surrounding the home was considered its "garden" – all one needed to do was simply open the door.<br>
+ The courtyard was also left unfettered based on the idea that by leaving it empty, it would be able to hold all things.<br>
+ This is a markedly different concept from Western architecture as well as a departure even within the Eastern cultural spheres from the embellishment <br>
+ of Chinese spaces and the artificial beauty of Japanese architectural spaces. Amid the peacefulness and humility of the Korean hanok, <Br>
+ there is a decided vitality and elegance.</p>
+ </div>
+ 
+ <div class="kor12">
+<img src="hanok13.jpg">
+<img src="hanok23.jpg">
+
+</div>
+ 
+ <div class="kor01">
+<p>Hanok attempts no ostentatious displays. Its subtle beauty and depth can be found in its respect for nature and the virtues of the commonplace.<br>
+ Because of the hanok's soft and quiet features, its simplicity may feel forlorn and desolate at times. The hanok has a natural aesthetic that lacks <br>
+ any artificial touch. It is this sense of restraint supported by subdued colors that brings out the natural order of the surrounding environment.<br>
+ This is a structural beauty based on the organic standardization of the simple line, a simplicity that refuses artificiality and instead seeks out depths<br>
+ of meaning in silence. Within the hanok is an essence which attempts to follow and converge with the order of nature.</p>
+</div>
+
+</div>
+</body>
+
+ <footer class="footer01">
+ <p>Eugene Web Design Copylight &copy; 2019</p>
+ </footer>
+</html>
